@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @the-king-lucy
+- 👀 I’m interested in data, visual journalism and investigations
+- 🌱 I’m currently learning Javascript, HTML, CSS and R
+- 💞️ I’m looking to collaborate on tech heavy investigations
+- 📫 You can reach me at kinglucyannATgmail.com
+- ⚡ Fun fact: I used to run therapy sessions with dolphins

@@ -7,7 +7,7 @@ I want to produce new and useful information and share it with an audience in a 
 ## I’m currently learning Javascript, HTML, CSS and Python
 I experiment with visual journalism here www.thehandsomereport.com
 
-## I'm always interested in collaborating on tech-heavy investigations
+## I'm always interested in collaborating on tech-first investigations
 I think we can achieve more if we reach across borders and tech specialities to collaborate. Hit me up
 
 Email: hello@thekinglucy.com

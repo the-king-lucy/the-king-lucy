@@ -1,5 +1,5 @@
 # Hi, I’m Lucy King
-I'm a journalist who is interested in how the latest tech can help facilitate better, more efficient and more beautiful reporting. I have 16 years of experience and over that time I have worked for the BBC, Vice News, Discovery, Disney and the New York Times. You can find out more about me on my website www.thekinglucy.com
+I'm a journalist who is interested in how the latest tech can help facilitate better, more efficient and more beautiful reporting. I have 16 years of experience in news, documentary and video. Over that time I have worked for the BBC, Vice News, Discovery, Disney and the New York Times. You can find out more about me on my website www.thekinglucy.com
 
 ## I'm interested in data, visual journalism and investigations
 I want to produce new and useful information and share it with an audience in a visually engaging and understandable way.

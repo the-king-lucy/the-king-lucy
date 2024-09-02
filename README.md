@@ -4,9 +4,6 @@ I'm a journalist who is interested in how the latest tech can help facilitate be
 ## I'm interested in data, visual journalism and investigations
 In a nutshell? I want to get to the bottom of things. And once I've figured out what's going on, I want the information to so beautiful that the public want to understand it.
 
-## I’m currently learning Svelte, GIS and Python
-I experiment with visual journalism here www.thehandsomereport.com
-
 ## I'm always interested in collaborating on tech-first investigations
 I think we can achieve more if we reach across borders and tech specialities to collaborate. Hit me up
 
